@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eLk0oDEak0HNZBK8CkwvzFx8aPrbB05vMxbL76QN2EnL+yv9p26pGOHHlPBxoocpFb8zzEZXm44BuT6cIvSDAA==",
+  "success": true,
+  "projectFilePath": "F:\\Programs\\PC time counter\\PC time counter\\PC_time_counter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANDER\\.nuget\\packages\\hardcodet.notifyicon.wpf\\1.1.0\\hardcodet.notifyicon.wpf.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

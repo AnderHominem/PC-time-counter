@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PC_time_counter</id>
+    <version>1.0.0</version>
+    <authors>PC_time_counter</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="System.Drawing.Common" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/Assets/Logo2.ico" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/time logo 500x500.png" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="F:\Programs\PC time counter\PC time counter\bin\Debug\net6.0-windows\PC_time_counter.runtimeconfig.json" target="lib\net6.0-windows7.0\PC_time_counter.runtimeconfig.json" />
+    <file src="F:\Programs\PC time counter\PC time counter\bin\Debug\net6.0-windows\PC_time_counter.dll" target="lib\net6.0-windows7.0\PC_time_counter.dll" />
+    <file src="F:\Programs\PC time counter\PC time counter\Assets\Logo2.ico" target="content\Assets\Logo2.ico" />
+    <file src="F:\Programs\PC time counter\PC time counter\Assets\Logo2.ico" target="contentFiles\any\net6.0-windows7.0\Assets\Logo2.ico" />
+    <file src="F:\Programs\PC time counter\PC time counter\Assets\time logo 500x500.png" target="content\Assets\time logo 500x500.png" />
+    <file src="F:\Programs\PC time counter\PC time counter\Assets\time logo 500x500.png" target="contentFiles\any\net6.0-windows7.0\Assets\time logo 500x500.png" />
+  </files>
+</package>

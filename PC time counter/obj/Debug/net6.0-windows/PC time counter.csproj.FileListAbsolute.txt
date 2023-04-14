@@ -1,0 +1,30 @@
+F:\Programs\PC time counter\PC time counter\bin\Debug\net6.0-windows\PC time counter.exe
+F:\Programs\PC time counter\PC time counter\bin\Debug\net6.0-windows\Assets\Logo2.ico
+F:\Programs\PC time counter\PC time counter\bin\Debug\net6.0-windows\PC time counter.dll.config
+F:\Programs\PC time counter\PC time counter\bin\Debug\net6.0-windows\PC time counter.deps.json
+F:\Programs\PC time counter\PC time counter\bin\Debug\net6.0-windows\PC time counter.runtimeconfig.json
+F:\Programs\PC time counter\PC time counter\bin\Debug\net6.0-windows\PC time counter.dll
+F:\Programs\PC time counter\PC time counter\bin\Debug\net6.0-windows\PC time counter.pdb
+F:\Programs\PC time counter\PC time counter\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+F:\Programs\PC time counter\PC time counter\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+F:\Programs\PC time counter\PC time counter\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Programs\PC time counter\PC time counter\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\PC time counter.csproj.AssemblyReference.cache
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\App.g.cs
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\PC time counter_MarkupCompile.cache
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\PC time counter_MarkupCompile.lref
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\MainWindow.baml
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\PC time counter.g.resources
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\PC time counter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\PC time counter.AssemblyInfoInputs.cache
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\PC time counter.AssemblyInfo.cs
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\PC time counter.csproj.CoreCompileInputs.cache
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\PC time counter.csproj.CopyComplete
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\PC time counter.dll
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\refint\PC time counter.dll
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\PC time counter.pdb
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\PC time counter.genruntimeconfig.cache
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\ref\PC time counter.dll
+F:\Programs\PC time counter\PC time counter\obj\Debug\net6.0-windows\PC time counter_Content.g.cs
+F:\Programs\PC time counter\PC time counter\bin\Debug\net6.0-windows\Assets\time logo 500x500.png
